@@ -678,3 +678,9 @@ input:checked + label > .knob > i:before {
     width: 320px;
     margin: 0 auto;
 }
+
+
+.coupang-banner {
+    width: 320px;
+    margin: 0 auto;
+}
